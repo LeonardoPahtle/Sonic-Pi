@@ -20,28 +20,28 @@ live_loop:Notes do
   stop
 end
 
-play:E4, amp: 0.01
-play:Gs4, amp: 0.01
+play:E4
+play:Gs4
 sleep 2
-play:E5, amp: 0.01
-play:Gs4, amp: 0.01
+play:E5
+play:Gs4
 sleep 1
-play:E4, amp: 0.01
+play:E4
 sleep 1
-play:E5, amp: 0.01
-play:Gs4, amp: 0.01
+play:E5
+play:Gs4
 sleep 2
-play:E5, amp: 0.1
-play:Gs4, amp: 0.1
+play:E5
+play:Gs4
 sleep 2
-play:E5, amp: 0.1
-play:Gs4, amp: 0.1
-play:B4, amp: 0.1
+play:E5
+play:Gs4
+play:B4
 sleep 1
-play:B4, amp: 0.5
+play:B4
 sleep 1
-play:Gs4, amp: 0.5
-play:E5, amp: 0.5
+play:Gs4
+play:E5
 sleep 2
 play:E5
 play:Gs4
