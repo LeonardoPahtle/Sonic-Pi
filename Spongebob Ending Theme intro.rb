@@ -4,7 +4,7 @@ patrick = "C:/Users/leonardo_quechol/Downloads/Patrick Explaining Wumbo.wav"
 use_bpm 136
 use_synth :piano
 
-sample patrick, amp: 10
+sample patrick
 sleep 59
 
 live_loop:Notes do
