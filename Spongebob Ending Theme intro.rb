@@ -3,8 +3,10 @@ patrick = "C:/Users/leonardo_quechol/Downloads/Patrick Explaining Wumbo.wav"
 
 use_bpm 136
 use_synth :piano
+
 sample patrick, amp: 10
 sleep 59
+
 live_loop:Notes do
   14.times do
     play:E3
@@ -20,6 +22,7 @@ live_loop:Notes do
   stop
 end
 
+sleep 1
 play:E4
 play:Gs4
 sleep 2
